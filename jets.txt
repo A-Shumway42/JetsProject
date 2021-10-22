@@ -1,0 +1,3 @@
+HotAirBalloon,nimbus,100.2,75,1234
+Cargo,Boeing 737,234,325,54321
+Passenger,Boeing Max,7,1,12

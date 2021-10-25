@@ -1,3 +1,5 @@
-HotAirBalloon,nimbus,100.2,75,1234
-Cargo,Boeing 737,234,325,54321
-Passenger,Boeing Max,7,1,12
+Fighter Jet,F22 Raptor,1500,1839,152000000
+Fighter Jet,F-35C Lightning II,1200,1367,122800000
+Fighter Jet,Flying Shark With Laser Beams,3000,10000,1000000000
+Cargo Plane,C-130 Hercules,368,2361,30000000
+Passenger Jet,Air Force One,650,7800,660000000
